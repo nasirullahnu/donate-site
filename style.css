@@ -81,3 +81,22 @@ body{
 .different-box{
     background-color: rgba(253, 232, 206, 0.76);
 }
+.contact-div{
+    width: 700px;
+    background-color: antiquewhite;
+    padding: 50px;
+    margin-left: 20%;
+    text-align: center;
+    border-radius: 10px;
+}
+.contact-div input{
+    height: 25px;
+    border-radius: 5px 0px 0px 5px;
+    background-color: tomato;
+}
+.subscribe-button{
+    border-radius: 0px 5px 5px 0px;
+    background-color: tomato;
+    color: white;
+    padding: 7px;
+}
