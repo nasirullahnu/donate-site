@@ -31,4 +31,16 @@
     padding: 8%;
     text-align: center;
     width: 50%;
+    font-family: 'Poppins', sans-serif;
 }
+.amount-div{
+    margin-left: 20%;
+    display: flex;
+}
+.amount{
+    background-color: lightgray;
+    padding: 40px 30px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
