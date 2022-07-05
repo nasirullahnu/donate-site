@@ -3,8 +3,9 @@
     padding: 0px;
 }
 .head-section{
-    background-image: url(images/donation1.jpg);
+    
     background-size: cover;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.884)), url(images/donation0.jpg);
 }
 .head-div{
     margin-left: 15%;
