@@ -51,4 +51,10 @@
     color: red;
     border: 2.5px solid tomato;
 }
+.amount-place{
+    margin-top: 30px;
+    width: 750px;
+    text-align: center;
+    margin-left: 21%;
 
+}
