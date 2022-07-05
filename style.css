@@ -68,11 +68,16 @@ body{
 }
 .information-div{
     display: flex;
+    margin: 0px 0px 50px 50px;
 }
 .info-box{
-    padding: 40px 15px;
-    margin-left: 60px;
+    padding: 60px 25px;
     background-color: azure;
+    margin-left: 12px;
     width: 350px;
     border-radius: 10px;
+    text-align: justify;
+}
+.different-box{
+    background-color: rgba(253, 232, 206, 0.76);
 }
