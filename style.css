@@ -1,11 +1,11 @@
-*{
+body{
     margin: 0px;
     padding: 0px;
 }
 .head-section{
     
     background-size: cover;
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.884)), url(images/donation0.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.945)), url(images/donation12.png);
 }
 .head-div{
     margin-left: 15%;
@@ -21,10 +21,12 @@
 }
 .donate-button{
     text-decoration: none;
-    padding: 5px 8px;
-    background-image: linear-gradient(yellow, green);
+    padding: 6px 10px;
+    background-image: linear-gradient(rgb(23, 3, 95), rgb(69, 2, 255));
     color: black;
-    border-radius: 7px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
 }
 .donate-today-div{
     margin-left: 15%;
@@ -56,5 +58,11 @@
     width: 750px;
     text-align: center;
     margin-left: 21%;
+}
+.amount-place p{
+    color: rgba(0, 0, 0, 0.212);
 
+}
+.donate-plan{
+    margin-top: 30px;
 }
