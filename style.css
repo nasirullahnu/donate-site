@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head-section{
+    background-image: url(images/donation1.jpg);
+    background-size: cover;
+}
+.head-div{
+    margin-left: 15%;
+    padding: 8%;
+    text-align: center;
+    width: 50%;
+    color: white;
+}
+.banner-heading{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: white;
+}
+.donate-button{
+    text-decoration: none;
+    padding: 5px 8px;
+    background-image: linear-gradient(yellow, green);
+    color: black;
+    border-radius: 7px;
+}
+.donate-today-div{
+    margin-left: 15%;
+    padding: 8%;
+    text-align: center;
+    width: 50%;
+}
