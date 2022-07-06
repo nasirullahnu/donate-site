@@ -93,21 +93,22 @@ body{
     border-radius: 10px;
 }
 .contact-div input{
-    height: 25px;
+    height: 30px;
     border-radius: 5px 0px 0px 5px;
-    background-color: tomato;
+    background-color: lightgray;
+    border: none;
+    padding-left: 15px;
 }
 .subscribe-button{
     border-radius: 0px 5px 5px 0px;
     background-color: tomato;
     color: white;
-    padding: 7px;
+    border: none;
+    height: 32px;
+    margin-left: -4px;
+    padding: 0px 15px 0px 15px;
+    
 }
-
-
-
-
-
 .mother-adding{
     display: flex;
 }
@@ -139,10 +140,6 @@ small{
 .three{
     background-image:linear-gradient(rgba(0, 0, 0, 0.349),rgb(0, 0, 0)), url(my-add/rohingya-7592.jpg);
 }
-
-
-
-
 .donate-catagories{
     display: flex;
 }
