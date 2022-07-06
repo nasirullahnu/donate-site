@@ -117,6 +117,7 @@ body{
     padding-right: 10px;
     margin-left: 4px;
     border-radius: 6px;
+    text-align: center;
 }
 .my-adding-div p{
     margin-top: 220px;
@@ -125,6 +126,9 @@ body{
 .my-adding-div p a{
     text-decoration: none;
     color: white;
+}
+small{
+    color: skyblue;
 }
 .one{
     background-image:linear-gradient(rgba(0, 0, 0, 0.267),rgb(0, 0, 0)), url(my-add/bull.jpg);
@@ -139,12 +143,36 @@ body{
 
 
 
+.donate-catagories{
+    display: flex;
+}
+.donate-catagories-sec{
+    text-align: center;
+    border: 1px solid red;
+    padding: 10px;
+    margin-left: 1.5%;
+    border-radius: 10px;
+}
+.donate-catagories-sec h1{
+    font-size: 30px;
+    padding: 20px 45px ;
+    text-align: center;
+    width: 200px;
+}
+.donate-catagories img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
 footer{
     text-align: center;
     color: white;
     background-color: rgb(8, 8, 66);
     padding: 10px;
     font-family: 'Satisfy', cursive;
+    margin-top: 100px;
 }
 .foot-text{
     font-family: 'Satisfy', cursive;
